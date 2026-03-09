@@ -11,11 +11,7 @@ El archivo `dataset_ventas.xlsx` contiene información de ventas con:
 - Precio
 - Ventas
 
-## Pasos para crear el dashboard
-
-1. Abrir Power BI Desktop
-2. Cargar el archivo `dataset_ventas.xlsx`
-3. Crear visualizaciones:
+## Funcion
 
 - Ventas por mes
 - Ventas por producto
@@ -23,4 +19,4 @@ El archivo `dataset_ventas.xlsx` contiene información de ventas con:
 - Segmentación por fecha
 
 ## Objetivo
-Mostrar habilidades en visualización de datos y análisis con Power BI.
+Mostrar habilidades visualización de datos y análisis con Power BI.
